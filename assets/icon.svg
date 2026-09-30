@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title">
+  <title id="title">Português em Movimento</title>
+  <rect width="256" height="256" fill="#10243e" />
+  <rect x="28" y="28" width="200" height="200" fill="none" stroke="#d7e0e7" stroke-width="5" />
+  <text x="73" y="153" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="96" font-weight="700">P</text>
+  <text x="130" y="194" fill="#e6a94b" font-family="Arial, Helvetica, sans-serif" font-size="96" font-weight="700">M</text>
+</svg>

@@ -1,0 +1,20 @@
+{
+  "name": "portugues-em-movimento-community",
+  "interface": {
+    "displayName": "Portugu\u00eas em Movimento"
+  },
+  "plugins": [
+    {
+      "name": "portugues-em-movimento",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

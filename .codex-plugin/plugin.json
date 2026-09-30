@@ -1,0 +1,25 @@
+{
+  "name": "portugues-em-movimento",
+  "version": "0.2.0",
+  "description": "Voice-first European Portuguese training with adaptive, local progress tracking.",
+  "license": "UNLICENSED",
+  "keywords": ["portuguese", "language-learning", "voice", "pt-PT"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Português em Movimento",
+    "shortDescription": "Your adaptive, voice-first pt-PT course.",
+    "longDescription": "Runs structured European Portuguese voice sessions inside Codex or ChatGPT and keeps the useful memory between them: missions, phrases, corrections, reviews and progress.",
+    "developerName": "Português em Movimento",
+    "category": "Productivity",
+    "capabilities": ["Interactive", "Write"],
+    "defaultPrompt": [
+      "Start today's European Portuguese voice session.",
+      "Show my Portuguese progress and review queue.",
+      "Run a short repair session on my recurring errors."
+    ],
+    "brandColor": "#2364AA",
+    "composerIcon": "./assets/icon.svg",
+    "logo": "./assets/icon.svg"
+  },
+  "mcpServers": "./.mcp.json"
+}

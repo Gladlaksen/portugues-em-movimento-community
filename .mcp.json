@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "portugues-em-movimento": {
+      "command": "node",
+      "args": ["./dist/mcp-server.js"],
+      "cwd": "."
+    }
+  }
+}

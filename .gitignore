@@ -1,0 +1,23 @@
+node_modules
+.local-data/
+.playwright-cli/
+output/playwright/
+.pnpm-store/
+.DS_Store
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+progress/*.lock
+progress/*.tmp
+
+# Learner data must never be published.
+progress/
+lessons/
+threads/
+**/progress.json
+**/progress.lock
+**/progress.*.tmp
+learner*.json
+.local-*/
